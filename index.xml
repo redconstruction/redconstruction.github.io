@@ -7,8 +7,23 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Untitled</copyright>
-    <lastBuildDate>Tue, 07 Mar 2017 21:53:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Mar 2017 22:15:07 +0000</lastBuildDate>
     <atom:link href="https://redconstruction.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>firstpost</title>
+      <link>https://redconstruction.github.io/post/firstpost/</link>
+      <pubDate>Tue, 07 Mar 2017 22:15:07 +0000</pubDate>
+      
+      <guid>https://redconstruction.github.io/post/firstpost/</guid>
+      <description>
+
+&lt;h1 id=&#34;today&#34;&gt;Today&lt;/h1&gt;
+
+&lt;p&gt;Today was a great day!
+And tomorow will be even better.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Home</title>
