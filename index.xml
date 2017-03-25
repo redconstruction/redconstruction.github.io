@@ -7,41 +7,89 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Grant Redgrave 2107</copyright>
-    <lastBuildDate>Tue, 07 Mar 2017 22:15:07 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Mar 2017 22:10:47 +0000</lastBuildDate>
     <atom:link href="https://redconstruction.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>firstpost</title>
-      <link>https://redconstruction.github.io/post/firstpost/</link>
-      <pubDate>Tue, 07 Mar 2017 22:15:07 +0000</pubDate>
+      <title>Projekt</title>
+      <link>https://redconstruction.github.io/projekt/</link>
+      <pubDate>Sat, 25 Mar 2017 22:10:47 +0000</pubDate>
       
-      <guid>https://redconstruction.github.io/post/firstpost/</guid>
+      <guid>https://redconstruction.github.io/projekt/</guid>
       <description>
 
-&lt;h1 id=&#34;today&#34;&gt;Today&lt;/h1&gt;
+&lt;h2 id=&#34;små-projekt&#34;&gt;Små projekt&lt;/h2&gt;
 
-&lt;p&gt;Today was a great day!
-And tomorow will be even better.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/dummcnnm7/v1490480262/hqn8iusldhwktypnedew&#34; alt=&#34;enter image description here&#34; /&gt;
+kvalité, erfarenhet och professionalism är vi byggföretaget att anlita. med bland annat takläggning och takrenovering&lt;/p&gt;
+
+&lt;h2 id=&#34;stora-projekt&#34;&gt;Stora projekt&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/dummcnnm7/v1490480318/gpjtkgqxi8ntyd26yiye&#34; alt=&#34;enter image description here&#34; /&gt;
+Vi arbetar med byggservice, ombyggnad, industri, nyproduktion och fastighetsutveckling.
+Byggföretaget med rätt personal och utrustning utför arbeten säkert.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Home</title>
+      <title>Service</title>
+      <link>https://redconstruction.github.io/snabb-service/</link>
+      <pubDate>Sat, 25 Mar 2017 21:59:00 +0000</pubDate>
+      
+      <guid>https://redconstruction.github.io/snabb-service/</guid>
+      <description>&lt;p&gt;Vi hjälper dig med ditt byggprojekt. hjälper dig med, takrenovering, köksrenovering, badrumsrenovering
+Med vår snabb service kan ni direkt anlita oss för diverse mindre jobb med kort varsel. Ring nu..&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Design &amp; bygglov</title>
+      <link>https://redconstruction.github.io/design-och-bygglov/</link>
+      <pubDate>Sat, 25 Mar 2017 21:58:41 +0000</pubDate>
+      
+      <guid>https://redconstruction.github.io/design-och-bygglov/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/dummcnnm7/v1490480185/goayeiftx63kfkogsjzo&#34; alt=&#34;enter image description here&#34; /&gt;
+Redconstruction erbjuder gedigen erfarenhet och kunskap. Utefter kundens önskemål och krav så utför vi olika uppdrag och erbjuder totalentreprenad med underleverantörer.
+Vi är ett modernt byggföretag som strävar efter att ständigt ligga i framkant som arbetsgivare, och hos våra kunder.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Process</title>
       <link>https://redconstruction.github.io/home/</link>
       <pubDate>Tue, 07 Mar 2017 21:53:28 +0000</pubDate>
       
       <guid>https://redconstruction.github.io/home/</guid>
-      <description>&lt;p&gt;We are here! :-)&lt;/p&gt;
+      <description>
+
+&lt;h2 id=&#34;design-och-bygglov&#34;&gt;Design och bygglov&lt;/h2&gt;
+
+&lt;p&gt;Redconstruction erbjuder gedigen erfarenhet och kunskap. Utefter kundens önskemål och krav så utför vi olika uppdrag och erbjuder totalentreprenad med underleverantörer.
+Vi är ett modernt byggföretag som strävar efter att ständigt ligga i framkant som arbetsgivare, och hos våra kunder.&lt;/p&gt;
+
+&lt;h2 id=&#34;stora-projekt&#34;&gt;Stora projekt&lt;/h2&gt;
+
+&lt;p&gt;Vi arbetar med byggservice, ombyggnad, industri, nyproduktion och fastighetsutveckling.
+Byggföretaget med rätt personal och utrustning utför arbeten säkert.&lt;/p&gt;
+
+&lt;h2 id=&#34;små-projekt&#34;&gt;Små projekt&lt;/h2&gt;
+
+&lt;p&gt;kvalité, erfarenhet och professionalism är vi byggföretaget att anlita. med bland annat takläggning och takrenovering
+Snabb service
+Vi hjälper dig med ditt byggprojekt. hjälper dig med, takrenovering, köksrenovering, badrumsrenovering
+Vi kan direkt anlitas för diverse mindre jobb med kort varsel. Ring nu..&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>About</title>
+      <title>Om oss</title>
       <link>https://redconstruction.github.io/about/</link>
       <pubDate>Tue, 07 Mar 2017 21:53:23 +0000</pubDate>
       
       <guid>https://redconstruction.github.io/about/</guid>
-      <description>&lt;p&gt;RedConstruction is the premium construction enterprise in the area.&lt;/p&gt;
+      <description>&lt;p&gt;Redconstruction erbjuder gedigen erfarenhet och kunskap. Utefter kundens önskemål och krav så utför vi olika uppdrag och erbjuder totalentreprenad med underleverantörer.&lt;/p&gt;
+
+&lt;p&gt;Vi är ett modernt byggföretag som strävar efter att ständigt ligga i framkant som arbetsgivare, och hos våra kunder.&lt;/p&gt;
 </description>
     </item>
     
